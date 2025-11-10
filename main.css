@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: rgb(20, 180, 234);
   font-family: Arial, sans-serif;
   padding: 20px;
 }
@@ -11,13 +11,13 @@ p {
 }
 
 div {
-  border: 2px solid black;
+  border: 2px solid rgb(178, 121, 121);
   padding: 10px;
   border-radius: 5px;
 }
 
 h1, h2 {
-  color: darkgreen;
+  color: rgb(0, 0, 0);
   text-align: center;
 }
 
@@ -27,7 +27,7 @@ ul {
 }
 
 div:hover {
-  border-color: red;
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  border-color: rgb(129, 15, 15);
+  box-shadow: 2px 2px 5px rgba(86, 86, 86, 0.3);
   transition: all 0.3s ease-in-out; 
 }
