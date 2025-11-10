@@ -1,0 +1,11 @@
+# Ігнор логів
+*.log
+
+# Ігнор файлів середовища
+.env
+
+# Кеш Python
+__pycache__/
+
+# Модулі node
+node_modules/
